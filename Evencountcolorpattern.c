@@ -41,7 +41,7 @@ tst_ColorPair GetColorFromPairNumber(int pairNumber) {
 }
 
 /*
- * Function to get the major and minor color from pair number
+ * Function to get the pair number from color 
  * \Param : Color pattern
  * \returns : Pair number
  */
